@@ -26,6 +26,9 @@ Si se desa incluir una base de datos diferente o indicar un nombre especifico
 para el fichero utilizar:
 > generateSQLFile otherDB, "otherfile.sql"
 
+## Inspired by:
+* [http://allenbrowne.com/func-06.html](http://allenbrowne.com/func-06.html)
+* [http://en.latindevelopers.com/ivancp/2012/ms-access-to-mysql-with-relationships/](http://en.latindevelopers.com/ivancp/2012/ms-access-to-mysql-with-relationships/)
 
 Copyright (c) 2014 Jonathan Chiné
 
