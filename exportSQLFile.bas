@@ -479,9 +479,9 @@ End Function
 '   Boolean
 Private Function isFileExist(strFilePath As String) As Boolean
     If Len(Dir(strFilePath)) = 0 Then
-        isFileExist = True
-    Else
         isFileExist = False
+    Else
+        isFileExist = True
     End If
 End Function
 
